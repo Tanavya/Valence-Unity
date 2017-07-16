@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4d9c7426844374c73a5bb204ca3b7bd8
+timeCreated: 1478287204
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - compoundsData: {instanceID: 0}
+  - ScoreCount: {instanceID: 0}
+  - StreakCount: {instanceID: 0}
+  - source: {instanceID: 0}
+  - bubblePop: {fileID: 8300000, guid: d006736375b254c898ee46d6a5364840, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

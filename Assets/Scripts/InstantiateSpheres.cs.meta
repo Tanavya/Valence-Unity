@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 4176ab53217e843179c2ca307e6e6bd6
+timeCreated: 1488039033
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - na: {fileID: 1000012654609448, guid: 79118a0e329a84133a00efa47ec54491, type: 2}
+  - nh4: {fileID: 150244, guid: e338040ba78ad4a978a6a5974967e428, type: 2}
+  - h: {fileID: 147302, guid: 792ab780e6e9f4e82912f0253dd41181, type: 2}
+  - cl: {fileID: 173130, guid: 4fd477416f3a74cf5bc41f0d2a58f16c, type: 2}
+  - o: {fileID: 1000013402101858, guid: faea26bbf8d7c41ba8d8ef7d816b6411, type: 2}
+  - co3: {fileID: 191084, guid: d98265512a83f404bb0612e36031acb6, type: 2}
+  - k: {fileID: 169672, guid: 894e12438610d4762b21bd282eb3f371, type: 2}
+  - ca: {fileID: 1000013625845426, guid: faddf880fd703442fad833f7fef0cd84, type: 2}
+  - li: {fileID: 1000010672684372, guid: c8d594257bea14fb198d17a827eded1a, type: 2}
+  - so4: {fileID: 1000010382873330, guid: fd4c19cc77d2a443aa2fd4889703b8ad, type: 2}
+  - po4: {fileID: 1000013955134742, guid: 9fb3a2974d40c4370a927a64f656d64d, type: 2}
+  - f: {fileID: 1000014163462224, guid: 34f355a6a9a7b40c69f75cede69ab633, type: 2}
+  - oh: {fileID: 1000011743631072, guid: 0a38c1507d44c42dea65c23735a2419c, type: 2}
+  - n: {fileID: 1000010952372976, guid: e16f4541acae94675afc75dceced3dab, type: 2}
+  - al: {fileID: 1000010893147216, guid: 0e57a4bc89e7d47b38eacc4549b4bf17, type: 2}
+  - zn: {fileID: 1000011184701612, guid: 0ab66a85c78d842a095e296dd12032da, type: 2}
+  - mg: {fileID: 1000012342467442, guid: cfc77f1aea3184c95a8db036a02fe0da, type: 2}
+  - br: {fileID: 1000011213503698, guid: 73aa524884a254fdba85ca904137f6e0, type: 2}
+  - red: {fileID: 1000010413403694, guid: 1e3810b7e28a949219f30773420c608c, type: 2}
+  - green: {fileID: 1000013600258810, guid: 6a2864d1f0a2c4a0a9a752d3b909ee93, type: 2}
+  - yellow: {fileID: 1000010063991408, guid: bc5c9740d678240ca88720e5672d6168, type: 2}
+  - blue: {fileID: 1000013402101858, guid: faea26bbf8d7c41ba8d8ef7d816b6411, type: 2}
+  - cyan: {fileID: 1000014136525584, guid: 0a757a045639c47bcbb022f1c6d57f88, type: 2}
+  - magenta: {fileID: 1000012751485218, guid: 0db3f8679961b4e2ca581944f27f87c6, type: 2}
+  - pink: {fileID: 1000013271486212, guid: fa085a604abd64fa4bea766db36af971, type: 2}
+  - orange: {fileID: 1000010562317748, guid: 21248d688c24f497a90285efbc7fd2e4, type: 2}
+  - timeCountText: {instanceID: 0}
+  - BonusText: {instanceID: 0}
+  - Score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
